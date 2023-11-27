@@ -7,7 +7,7 @@
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morettileonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MorettiLeonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morettileonardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>
