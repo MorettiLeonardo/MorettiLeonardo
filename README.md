@@ -1,4 +1,4 @@
-Olá, eu sou o Leonardo, programador front-end
+##Olá, eu sou o Leonardo, programador front-end
 
 Tenho interesse pelas áreas de UX, front-end, ecossistema JavaScript.
 
