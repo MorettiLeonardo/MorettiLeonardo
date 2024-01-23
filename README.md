@@ -1,6 +1,6 @@
-<h1>Olá, eu sou o Leonardo, programador front-end</h1>
+<h1>Olá, eu sou o Leonardo Moretti</h1>
 
-Tenho interesse pelas áreas de UX, front-end, ecossistema JavaScript.
+Eu sou um desenvolvedor front-end.
 
 Atualmente estou atuando na área de freelancer, cursando Análise e Desenvolvimento de Sistemas na PUCPR, Curso OneBitCode FullStack JavaScript e Engenheiro Front-End na EBAC.
 
@@ -10,4 +10,7 @@ Atualmente estou atuando na área de freelancer, cursando Análise e Desenvolvim
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <br>
+  <h3>Social</h3>
+  <a href="https://www.linkedin.com/in/leonardo-moretti-1280381b9/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
