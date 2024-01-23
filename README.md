@@ -1,6 +1,6 @@
-<h1>Olá, eu sou o Leonardo Moretti</h1>
+<h1>Olá! Meu nome é Leonardo Moretti 😄</h1>
 
-Eu sou um desenvolvedor front-end.
+🌍 Eu sou um desenvolvedor front-end.
 
 Atualmente estou atuando na área de freelancer, cursando Análise e Desenvolvimento de Sistemas na PUCPR, Engenheiro Front-End na EBAC e Curso OneBitCode FullStack JavaScript.
 
