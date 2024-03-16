@@ -2,7 +2,7 @@
 
 🌍 Eu sou um desenvolvedor front-end.
 
-Atualmente estou atuando na área de freelancer, cursando Análise e Desenvolvimento de Sistemas na PUCPR, Engenheiro Front-End na EBAC e Curso OneBitCode FullStack JavaScript.
+Atualmente estou atuando na área de freelancer, cursando Análise e Desenvolvimento de Sistemas na PUCPR e Engenheiro Front-End na EBAC.
 
 <div style="display: inline_block"><br>
   <h2>Skills</h2>
