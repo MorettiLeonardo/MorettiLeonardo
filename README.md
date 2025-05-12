@@ -1,8 +1,8 @@
 <h1>Olá! Meu nome é Leonardo Moretti 😄</h1>
 
-🌍 Eu sou um desenvolvedor front-end.
+🌍 Eu sou um desenvolvedor front-end e back-end.
 
-Atualmente estou atuando na área de freelancer, cursando Análise e Desenvolvimento de Sistemas na PUCPR e Engenheiro Front-End na EBAC.
+Atualmente estou atuando como desenvolvedor full-stack na TLM Telemetria e Sensoriamento, formado na PUCPR em Análise e Desenvolvimento de Sistemas e Cursando Sistemas de Informação na Positivo.
 
 <div style="display: inline_block"><br>
   <h2>Skills</h2>
@@ -13,6 +13,7 @@ Atualmente estou atuando na área de freelancer, cursando Análise e Desenvolvim
     <img align="center" alt="typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="vuejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </div>
   <br>
